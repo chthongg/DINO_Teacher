@@ -12,6 +12,14 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025 <br>
 <img src="schematic.png" width="85%">
 </p>
 
+## Documentation
+
+📚 **Comprehensive documentation available**:
+- **[CODE_FLOW.md](CODE_FLOW.md)** - Detailed architecture and complete image flow from input to output
+- **[ARCHITECTURE_QUICK_REFERENCE.md](ARCHITECTURE_QUICK_REFERENCE.md)** - Quick reference guide with common commands and debugging tips
+- **[PIPELINE_VISUAL.md](PIPELINE_VISUAL.md)** - Visual diagrams of the three-phase training pipeline
+- **[INSTALL.md](INSTALL.md)** - Installation instructions
+
 ## Installation
 Please refer to [INSTALL.md](INSTALL.md) for the installation of `DINO Teacher`.
 
